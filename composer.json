@@ -1,0 +1,36 @@
+{
+    "name": "peregrine/peregrine",
+    "description": "Peregrine PHP Framework",
+    "keywords": [
+        "PHP",
+        "peregrine",
+        "framework"
+    ],
+    "homepage": "https://github.com/xezzus/peregrine",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Xezzus",
+            "email": "xezzus@gmail.com",
+            "homepage": "https://github.com/xezzus",
+            "role": "Founder and project lead"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/xezzus/peregrine/issues",
+        "wiki": "https://github.com/xezzus/peregrine/wiki",
+        "source": "https://github.com/xezzus/peregrine"
+    },
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "autoload": {
+        "psr-4": {"peregrine\\": ""}
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
+}
