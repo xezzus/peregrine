@@ -8,7 +8,7 @@
     ],
     "homepage": "https://github.com/xezzus/peregrine",
     "type": "library",
-    "license": "BSD-3-Clause",
+    "license": "MIT License",
     "authors": [
         {
             "name": "Xezzus",
