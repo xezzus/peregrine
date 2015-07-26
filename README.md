@@ -1,2 +1,2 @@
-# peregrine
+# Peregrine
 PHP Framework
